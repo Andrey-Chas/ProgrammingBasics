@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\bin\Debug\netcoreapp3.1\ConverterTemperature.exe
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\bin\Debug\netcoreapp3.1\ConverterTemperature.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\bin\Debug\netcoreapp3.1\ConverterTemperature.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\bin\Debug\netcoreapp3.1\ConverterTemperature.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\bin\Debug\netcoreapp3.1\ConverterTemperature.dll
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\bin\Debug\netcoreapp3.1\ConverterTemperature.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.dll
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.genruntimeconfig.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterTemperature\obj\Debug\netcoreapp3.1\ConverterTemperature.GeneratedMSBuildEditorConfig.editorconfig
