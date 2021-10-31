@@ -62,6 +62,8 @@ namespace ConverterTemperature
                     var resultRounded = Math.Round(result, 2);
                     Console.WriteLine($"{resultRounded} Celsius degrees");
                 }
+
+                Console.ReadKey();
             }
 
             else if (userIn.ToLower() == "compare")
@@ -128,6 +130,13 @@ namespace ConverterTemperature
                         Console.WriteLine($"The temperature in {temInCNumRounded} Celsius degrees is less\nthan the temperature in {resultInCRounded} Celsius degrees on {differenceInCRounded} Celsius degrees");
                         Console.WriteLine();
                         Console.WriteLine($"The temperature in {temInFNumRounded} Fahrenheit degrees is greater\nthan the temperature in {resultInFRounded} Fahrenheit degrees on {differenceInFRounded} Fahrenheit degrees");
+                    }
+
+                    else
+                    {
+                        Console.WriteLine($"Requested to compare:\n\t{temInCNumRounded} Celsius degrees - {resultInFRounded} Fahrenheit degrees\n\t{temInFNumRounded} Fahrenheit degrees - {resultInCRounded} Celsius degrees");
+                        Console.WriteLine();
+                        Console.WriteLine("Temperatures are the same");
                     }
                 }
             }

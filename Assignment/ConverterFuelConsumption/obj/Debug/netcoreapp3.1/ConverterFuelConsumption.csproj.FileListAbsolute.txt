@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\bin\Debug\netcoreapp3.1\ConverterFuelConsumption.exe
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\bin\Debug\netcoreapp3.1\ConverterFuelConsumption.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\bin\Debug\netcoreapp3.1\ConverterFuelConsumption.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\bin\Debug\netcoreapp3.1\ConverterFuelConsumption.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\bin\Debug\netcoreapp3.1\ConverterFuelConsumption.dll
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\bin\Debug\netcoreapp3.1\ConverterFuelConsumption.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.dll
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.genruntimeconfig.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ConverterFuelConsumption\obj\Debug\netcoreapp3.1\ConverterFuelConsumption.csproj.AssemblyReference.cache
