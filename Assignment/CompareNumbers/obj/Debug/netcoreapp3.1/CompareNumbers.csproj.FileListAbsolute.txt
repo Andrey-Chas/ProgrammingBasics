@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\bin\Debug\netcoreapp3.1\CompareNumbers.exe
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\bin\Debug\netcoreapp3.1\CompareNumbers.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\bin\Debug\netcoreapp3.1\CompareNumbers.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\bin\Debug\netcoreapp3.1\CompareNumbers.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\bin\Debug\netcoreapp3.1\CompareNumbers.dll
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\bin\Debug\netcoreapp3.1\CompareNumbers.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.dll
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.genruntimeconfig.cache
+C:\Users\диан\source\repos\ProgrammingBasics\CompareNumbers\obj\Debug\netcoreapp3.1\CompareNumbers.csproj.AssemblyReference.cache

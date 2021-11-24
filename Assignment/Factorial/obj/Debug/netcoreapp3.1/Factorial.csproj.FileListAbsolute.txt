@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
