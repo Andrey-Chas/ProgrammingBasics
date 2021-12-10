@@ -1,0 +1,13 @@
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\bin\Debug\netcoreapp3.1\ArrayCalculations.exe
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\bin\Debug\netcoreapp3.1\ArrayCalculations.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\bin\Debug\netcoreapp3.1\ArrayCalculations.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\bin\Debug\netcoreapp3.1\ArrayCalculations.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\bin\Debug\netcoreapp3.1\ArrayCalculations.dll
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\bin\Debug\netcoreapp3.1\ArrayCalculations.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\obj\Debug\netcoreapp3.1\ArrayCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\obj\Debug\netcoreapp3.1\ArrayCalculations.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\obj\Debug\netcoreapp3.1\ArrayCalculations.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\obj\Debug\netcoreapp3.1\ArrayCalculations.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\obj\Debug\netcoreapp3.1\ArrayCalculations.dll
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\obj\Debug\netcoreapp3.1\ArrayCalculations.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\ArrayCalculations\obj\Debug\netcoreapp3.1\ArrayCalculations.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\bin\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.exe
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\bin\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\bin\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\bin\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\bin\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.dll
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\bin\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.dll
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\RemoveDuplicatesFromTheArray\obj\Debug\netcoreapp3.1\RemoveDuplicatesFromAnArray.genruntimeconfig.cache
