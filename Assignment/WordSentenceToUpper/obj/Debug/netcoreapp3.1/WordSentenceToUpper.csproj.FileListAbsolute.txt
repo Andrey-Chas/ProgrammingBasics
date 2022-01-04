@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\bin\Debug\netcoreapp3.1\WordSentenceToUpper.exe
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\bin\Debug\netcoreapp3.1\WordSentenceToUpper.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\bin\Debug\netcoreapp3.1\WordSentenceToUpper.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\bin\Debug\netcoreapp3.1\WordSentenceToUpper.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\bin\Debug\netcoreapp3.1\WordSentenceToUpper.dll
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\bin\Debug\netcoreapp3.1\WordSentenceToUpper.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.dll
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\WordSentenceToUpper\obj\Debug\netcoreapp3.1\WordSentenceToUpper.genruntimeconfig.cache

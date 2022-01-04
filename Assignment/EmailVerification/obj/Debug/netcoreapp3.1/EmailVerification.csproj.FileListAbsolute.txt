@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\bin\Debug\netcoreapp3.1\EmailVerification.exe
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\bin\Debug\netcoreapp3.1\EmailVerification.deps.json
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\bin\Debug\netcoreapp3.1\EmailVerification.runtimeconfig.json
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\bin\Debug\netcoreapp3.1\EmailVerification.runtimeconfig.dev.json
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\bin\Debug\netcoreapp3.1\EmailVerification.dll
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\bin\Debug\netcoreapp3.1\EmailVerification.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.AssemblyInfo.cs
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.dll
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.pdb
+C:\Users\диан\source\repos\ProgrammingBasics\EmailVerification\obj\Debug\netcoreapp3.1\EmailVerification.genruntimeconfig.cache
